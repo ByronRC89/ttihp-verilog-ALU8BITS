@@ -9,11 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+este proyecto es de una ALU para hacer 4 funciones basicas que son:
+SUMA, RESTA, AND, OR.
 
 ## How to test
 
-Explain how to use your project
+Ingresando un valor en las entradas A y B y seleccionando en el boton de opciones 00 para suma, 01 pa resta, 10 para AND Y 11 para la funcion OR.
 
 ## External hardware
 
