@@ -25,14 +25,14 @@ project:
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
 pinout:
   # Inputs
-  ui[0]: "in[0]"
-  ui[1]: "in[1]"
-  ui[2]: "in[2]"
-  ui[3]: "in[3]"
-  ui[4]: "in[4]"
-  ui[5]: "in[5]"
-  ui[6]: "in[6]"
-  ui[7]: "in[7]"
+  ui[0]: "a[0]"
+  ui[1]: "a[1]"
+  ui[2]: "a[2]"
+  ui[3]: "a[3]"
+  ui[4]: "b[4]"
+  ui[5]: "b[5]"
+  ui[6]: "b[6]"
+  ui[7]: "b[7]"
 
   # Outputs
   uo[0]: "out[0]"
