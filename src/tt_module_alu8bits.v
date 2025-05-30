@@ -1,5 +1,5 @@
 
-module user_module_alu_tt (
+module tt_module_alu8bits (
     input  [7:0] io_in,   // [7:4] = opcode, [3:0] = operand control
     output [7:0] io_out,  // result
     input        clk,
